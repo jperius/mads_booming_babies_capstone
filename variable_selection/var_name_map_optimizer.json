@@ -1,0 +1,243 @@
+{
+    "mager": [
+        "mager"
+    ],
+    "dmar": [
+        "dmar"
+    ],
+    "fagecomb": [
+        "fagecomb"
+    ],
+    "smoking": [
+        "smoking"
+    ],
+    "previs": [
+        "previs"
+    ],
+    "bmi": [
+        "bmi"
+    ],
+    "pwgt_r": [
+        "pwgt_r"
+    ],
+    "dwgt_r": [
+        "dwgt_r"
+    ],
+    "wtgain": [
+        "wtgain"
+    ],
+    "rf_cesarn": [
+        "rf_cesarn"
+    ],
+    "sex": [
+        "sex"
+    ],
+    "combgest": [
+        "combgest"
+    ],
+    "dbwt": [
+        "dbwt"
+    ],
+    "ca_anen": [
+        "ca_anen"
+    ],
+    "ca_mnsb": [
+        "ca_mnsb"
+    ],
+    "ca_cchd": [
+        "ca_cchd"
+    ],
+    "ca_cdh": [
+        "ca_cdh"
+    ],
+    "ca_omph": [
+        "ca_omph"
+    ],
+    "ca_gast": [
+        "ca_gast"
+    ],
+    "ca_limb": [
+        "ca_limb"
+    ],
+    "ca_cleft": [
+        "ca_cleft"
+    ],
+    "ca_clpal": [
+        "ca_clpal"
+    ],
+    "ca_hypo": [
+        "ca_hypo"
+    ],
+    "ca_down": [
+        "ca_down"
+    ],
+    "ca_disor": [
+        "ca_disor"
+    ],
+    "time": [
+        "time_sin",
+        "time_cos"
+    ],
+    "mracehisp": [
+        "mracehisp_2",
+        "mracehisp_3",
+        "mracehisp_4",
+        "mracehisp_5",
+        "mracehisp_6",
+        "mracehisp_7",
+        "mracehisp_8"
+    ],
+    "rf_pdiab": [
+        "rf_pdiab_1",
+        "rf_pdiab_2"
+    ],
+    "rf_gdiab": [
+        "rf_gdiab_1",
+        "rf_gdiab_2"
+    ],
+    "rf_phype": [
+        "rf_phype_1",
+        "rf_phype_2"
+    ],
+    "rf_ghype": [
+        "rf_ghype_1",
+        "rf_ghype_2"
+    ],
+    "rf_ehype": [
+        "rf_ehype_1",
+        "rf_ehype_2"
+    ],
+    "rf_ppterm": [
+        "rf_ppterm_1",
+        "rf_ppterm_2"
+    ],
+    "rf_fedrg": [
+        "rf_fedrg_1",
+        "rf_fedrg_2",
+        "rf_fedrg_3"
+    ],
+    "rf_artec": [
+        "rf_artec_1",
+        "rf_artec_2",
+        "rf_artec_3"
+    ],
+    "ip_gon": [
+        "ip_gon_1",
+        "ip_gon_2"
+    ],
+    "ip_syph": [
+        "ip_syph_1",
+        "ip_syph_2"
+    ],
+    "ip_chlam": [
+        "ip_chlam_1",
+        "ip_chlam_2"
+    ],
+    "ip_hepb": [
+        "ip_hepb_1",
+        "ip_hepb_2"
+    ],
+    "ip_hepc": [
+        "ip_hepc_1",
+        "ip_hepc_2"
+    ],
+    "ld_indl": [
+        "ld_indl_1",
+        "ld_indl_2"
+    ],
+    "ld_augm": [
+        "ld_augm_1",
+        "ld_augm_2"
+    ],
+    "ld_ster": [
+        "ld_ster_1",
+        "ld_ster_2"
+    ],
+    "ld_antb": [
+        "ld_antb_1",
+        "ld_antb_2"
+    ],
+    "ld_chor": [
+        "ld_chor_1",
+        "ld_chor_2"
+    ],
+    "ld_anes": [
+        "ld_anes_1",
+        "ld_anes_2"
+    ],
+    "me_pres": [
+        "me_pres_2",
+        "me_pres_3",
+        "me_pres_9"
+    ],
+    "me_rout": [
+        "me_rout_2",
+        "me_rout_3",
+        "me_rout_4",
+        "me_rout_9"
+    ],
+    "attend": [
+        "attend_2",
+        "attend_3",
+        "attend_4",
+        "attend_5",
+        "attend_9"
+    ],
+    "pay": [
+        "pay_1",
+        "pay_3",
+        "pay_4",
+        "pay_5",
+        "pay_6",
+        "pay_8",
+        "pay_9"
+    ],
+    "dplural": [
+        "dplural_2",
+        "dplural_3",
+        "dplural_4"
+    ],
+    "ab_aven1_0": [
+        "ab_aven1_1",
+        "ab_aven1_2"
+    ],
+    "ab_aven6_0": [
+        "ab_aven6_1",
+        "ab_aven6_2"
+    ],
+    "ab_nicu": [
+        "ab_nicu_1",
+        "ab_nicu_2"
+    ],
+    "ab_surf": [
+        "ab_surf_1",
+        "ab_surf_2"
+    ],
+    "ab_anti": [
+        "ab_anti_1",
+        "ab_anti_2"
+    ],
+    "ab_seiz": [
+        "ab_seiz_1",
+        "ab_seiz_2"
+    ],
+    "dob_mm": [
+        "dob_mm_2",
+        "dob_mm_3",
+        "dob_mm_4",
+        "dob_mm_5",
+        "dob_mm_6",
+        "dob_mm_7",
+        "dob_mm_8",
+        "dob_mm_9",
+        "dob_mm_10",
+        "dob_mm_11",
+        "dob_mm_12"
+    ],
+    "prior_dead_term_binary": [
+        "prior_dead_term_binary"
+    ],
+    "precare_binary": [
+        "precare_binary"
+    ]
+}
