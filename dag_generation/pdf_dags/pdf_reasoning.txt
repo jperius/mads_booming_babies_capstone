@@ -1,0 +1,6 @@
+We just wanted to add explicit context for the inclusion of PDFs in our repository. They're here for two main reasons:
+
+1. The DAG-generating algorithms are very compute heavy and require a decent amount of setup.
+2. When rendered in-notebook, they'rem difficult to navigate because of their size.
+
+Including these as PDFs make it easier to explore them using an entire screen, and prevents the need to re-run in case the notebook crashes or clears accidentally.
