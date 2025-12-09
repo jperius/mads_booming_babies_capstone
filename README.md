@@ -48,8 +48,12 @@ Option B:
 
 1. You can skip the above two steps by running download_dataset_samples.py using the instructions provided above.
 
-Note: after either method is wrapped up, you can run the other files available in this repo.
+<bold>IMPORTANT NOTE: after either method is wrapped up, you can run the other files available in this repo.</bold>
 
 <h3>recall_optimized_modeling, dag_generation, and variable_selection</h3>
 
 These subdirectories each have a 'prep_data_*' notebook that prepares the data for the given task being executed. The visualization notebooks (if present) are the last to run (if you are so inclined to do so).
+
+<h3>Archive Directory</h3>
+
+The archive contains deprecated notebooks that we wanted to include just to keep them as context for ourselves and others. 
