@@ -19,7 +19,7 @@ def global_expanding_standard_scaler_by_date(
         * Computes expanding means/stds over the provided df.
         * Returns scaled df, and optionally the stats dict if return_stats=True.
 
-    - Transform-only (stats is not None):
+    - Transform only (stats is not None):
         * Uses previously computed stats (from a training set) and
           applies them to df without recomputing.
 
